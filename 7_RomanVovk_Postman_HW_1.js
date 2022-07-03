@@ -1,5 +1,3 @@
-Roman Vovk
-28_Group
 Postman. HW_1
 
 Создать запросы в Postman.
